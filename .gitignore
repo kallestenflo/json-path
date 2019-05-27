@@ -1,0 +1,14 @@
+target
+**/target
+.gradle
+.gradle
+.project
+.classpath
+.settings
+.idea/
+**/out
+**/gradle
+*.iws
+*.ipr
+*.iml
+
